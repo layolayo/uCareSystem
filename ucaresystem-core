@@ -408,7 +408,7 @@ function GOODBYE {
 	echo "                       					             "	
 	echo "	https://www.paypal.me/cerebrux  		     	     "
 	echo "												     	 "
-	echo "     	All maintenace Complete... GOODBYE			     "
+	echo "     	All maintenance Complete... GOODBYE			     "
 	echo "_______________________________________________________"
 	echo
 }
@@ -421,7 +421,7 @@ function SHUT_DOWN {
 	echo "Shutting down as you requested"
 	echo "##############################"
 	echo
-	MESSAGE="Shuting down"
+	MESSAGE="Shutting down"
 	COUNTDOWN $duration
 	sudo shutdown now
 }
